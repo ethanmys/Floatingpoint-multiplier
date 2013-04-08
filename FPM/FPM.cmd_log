@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "Z:/Desktop/github/Floatingpoint-multiplier/FPM/FPM.xst" -ofn "Z:/Desktop/github/Floatingpoint-multiplier/FPM/FPM.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/github/Floatingpoint-multiplier/FPM/FPM.xst" -ofn "Z:/Desktop/github/Floatingpoint-multiplier/FPM/FPM.syr" 
