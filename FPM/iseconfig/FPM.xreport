@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-04-07T23:00:59</DateModified>
+  <DateModified>2013-04-07T23:08:28</DateModified>
   <ModuleName>FPM</ModuleName>
   <SummaryTimeStamp>2013-04-07T23:00:58</SummaryTimeStamp>
   <SavedFilePath>Z:/Desktop/github/Floatingpoint-multiplier/FPM/iseconfig/FPM.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>Z:/Desktop/github/Floatingpoint-multiplier/FPM</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>Z:/Desktop/github/Floatingpoint-multiplier/FPM\</ImplementationReportsDirectory>
   <DateInitialized>2013-04-07T22:50:26</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

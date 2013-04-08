@@ -248,15 +248,7 @@ FOR AB3 : alt_8bit_alu  USE ENTITY WORK.alt_8bit_alu(behavioral);
 
 BEGIN  --  test 
 
-  --  Enter the instantiation for your 8 bit ALU
-  --  Note that the inputs are per the diagram in lecture (slide 8)
-  --     except that only A and B are driven by the applytest process
-  --     Also note that A and B are Bit vectors!!!
-  --  Also note that the P, K, and R signals are gone.  You must now
-  --     use the signal Oper to control the operation of the ALU.
-  --  The carry input is Cin, the carry output Cout
-  --  The data output of the alu slice is Zout which is also now a bit
-  --     vector.
+
 
 AB3: alt_8bit_alu PORT MAP(Oper, A, B, Cin, Zout, Cout);
 
